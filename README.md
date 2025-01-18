@@ -57,9 +57,6 @@ Upon execution, the employee data will be split into four destination tables bas
 ## Project Report
 The detailed project report can be accessed [here](https://github.com/Zeekersky/AdventureWorks-SplitPackage/blob/main/Project%20Report.pdf).
 
-## Screenshots
-*Include relevant screenshots of your SSIS package and output tables here.*
-
 ## Contact
 For any queries or suggestions, feel free to reach out:
 - **Author**: Akash Pal

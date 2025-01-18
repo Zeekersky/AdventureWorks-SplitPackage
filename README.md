@@ -60,9 +60,6 @@ The detailed project report can be accessed [here](https://github.com/Zeekersky/
 ## Screenshots
 *Include relevant screenshots of your SSIS package and output tables here.*
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Contact
 For any queries or suggestions, feel free to reach out:
 - **Author**: Akash Pal
